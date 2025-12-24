@@ -32,6 +32,7 @@ blockchain applications, and data-driven solutions.
 
 ### 📈 GitHub Activity
 ![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Escorpio024&show_icons=true&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=Escorpio024)
 
 ---
 

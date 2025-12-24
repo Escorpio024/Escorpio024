@@ -28,10 +28,10 @@ blockchain applications, and data-driven solutions.
 ## 📊 GitHub Stats
 
 ### 🔝 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Escorpio024&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Escorpio024&layout=compact&theme=default)
 
 ### 📈 GitHub Activity
-![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Escorpio024&show_icons=true&theme=tokyonight)
+![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Escorpio024&show_icons=true&theme=default)
 
 ---
 

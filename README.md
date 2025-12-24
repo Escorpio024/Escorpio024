@@ -27,11 +27,11 @@ blockchain applications, and data-driven solutions.
 
 ## 📊 GitHub Stats
 
-### 🔝 Most Used Languages
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Escorpio024&layout=compact&theme=tokyonight)
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Escorpio024&theme=github_dark)
 
-### 📈 GitHub Activity
-![Oscar's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Escorpio024&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Escorpio024&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Escorpio024&theme=github-dark)
 
 ---
 
